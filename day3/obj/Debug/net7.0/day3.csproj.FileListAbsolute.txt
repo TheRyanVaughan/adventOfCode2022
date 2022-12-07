@@ -1,0 +1,15 @@
+/Users/ryanvaughan/repos/github/adventCode/day3/bin/Debug/net7.0/day3
+/Users/ryanvaughan/repos/github/adventCode/day3/bin/Debug/net7.0/day3.deps.json
+/Users/ryanvaughan/repos/github/adventCode/day3/bin/Debug/net7.0/day3.runtimeconfig.json
+/Users/ryanvaughan/repos/github/adventCode/day3/bin/Debug/net7.0/day3.dll
+/Users/ryanvaughan/repos/github/adventCode/day3/bin/Debug/net7.0/day3.pdb
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/day3.csproj.AssemblyReference.cache
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/day3.AssemblyInfoInputs.cache
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/day3.AssemblyInfo.cs
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/day3.csproj.CoreCompileInputs.cache
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/day3.dll
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/refint/day3.dll
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/day3.pdb
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/day3.genruntimeconfig.cache
+/Users/ryanvaughan/repos/github/adventCode/day3/obj/Debug/net7.0/ref/day3.dll
